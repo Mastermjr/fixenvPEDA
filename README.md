@@ -1,5 +1,6 @@
 fixenv
 ====================
+ORIGINAL SOURCE: https://github.com/hellman/fixenv
 
 A script to make stack addresses the same when running a program under gdb,ltrace,strace or without debugging (without ASLR of course).
 Env variables order is saved too.
